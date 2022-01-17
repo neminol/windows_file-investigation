@@ -1,6 +1,6 @@
 # windows_file-investigation
 Windows_file - nosteam.ro
-
+(SAMPLE IS GIVEN, USE IT ON YOUR OWN)
 Malware investigation on Windows_file
 
 Date: 1/16/2022
