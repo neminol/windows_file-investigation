@@ -6,7 +6,7 @@ Windows_file - nosteam.ro
 
 Malware investigation on Windows_file
 
-Date: 1/16/2022
+Date: 1/17/2022
 
 Conducted by: github.com/neminol
 
